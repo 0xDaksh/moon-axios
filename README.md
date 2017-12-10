@@ -1,4 +1,4 @@
-# moon-aixos
+# moon-axios
 A small wrapper for integrating axios to Moon.js
 
 
