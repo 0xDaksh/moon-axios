@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/DakshMiglani/moon-aixos.git"
   },
+  "files": [
+    "dist",
+    "src"
+  ],
   "keywords": [
     "moon-axios",
     "moon",
