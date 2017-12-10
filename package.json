@@ -2,7 +2,7 @@
   "name": "moon-axios",
   "version": "0.0.0",
   "description": "A small wrapper for integrating axios to Moon.js",
-  "main": "index.js",
+  "main": "dist/vue-axios.min.js",
   "scripts": {
     "test": "npm run test"
   },
