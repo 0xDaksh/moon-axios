@@ -8,9 +8,9 @@ gulp.task('default', () => {
     .pipe(babel({
       presets: ['es2015']
     }))
-    .pipe(rename('vue-axios.es5.js'))
+    .pipe(rename('moon-axios.es5.js'))
     .pipe(gulp.dest('dist'))
     .pipe(uglify())
-    .pipe(rename('vue-axios.min.js'))
+    .pipe(rename('moon-axios.min.js'))
     .pipe(gulp.dest('dist'));
 });

@@ -19,8 +19,8 @@ Moon.use(MoonAxios, axios)
 
 ### Script:
 Just add 3 scripts in order: `moon`, `axios` and `moon-axios` to your `document`.
-```
-https://unpkg.com/moon-axios
+```html
+<script src="https://unpkg.com/moon-axios"></script>
 ```
 
 ## Usage:
