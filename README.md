@@ -19,6 +19,9 @@ Moon.use(MoonAxios, axios)
 
 ### Script:
 Just add 3 scripts in order: `moon`, `axios` and `moon-axios` to your `document`.
+```
+https://unpkg.com/moon-axios
+```
 
 ## Usage:
 This wrapper bind `axios` to `Moon` or `this` if you're using single file component.
