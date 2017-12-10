@@ -20,11 +20,11 @@ const plugin = {
 					return axios
 				}
 			},
-                        $http: {
-                                get() {
-                                        return axios
-                                }
-                        }
+            $http: {
+                get() {
+                        return axios
+                }
+            }
 		})
 	}
 }
