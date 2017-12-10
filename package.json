@@ -1,0 +1,32 @@
+{
+  "name": "moon-axios",
+  "version": "0.0.0",
+  "description": "A small wrapper for integrating axios to Moon.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DakshMiglani/moon-aixos.git"
+  },
+  "keywords": [
+    "moon-axios",
+    "moon",
+    "http",
+    "request",
+    "moon",
+    "http",
+    "axios",
+    "for",
+    "moon",
+    "moon",
+    "axios"
+  ],
+  "author": "Daksh Miglani <hello@dak.sh> (https://dak.sh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DakshMiglani/moon-aixos/issues"
+  },
+  "homepage": "https://github.com/DakshMiglani/moon-aixos#readme"
+}
